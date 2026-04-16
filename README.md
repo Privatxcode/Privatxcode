@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Salut, moi c'est **Privat DAAGBO**
+# 👋 Salut, moi c'est **Privat**
 
 ### 🚀 Développeur Full Stack & Mobile | Lead Technique
 
@@ -9,7 +9,6 @@
 [![Email](https://img.shields.io/badge/Email-daagboprivat4%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:daagboprivat4@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-mr__privt-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/mr_privt)
 [![Location](https://img.shields.io/badge/📍-Agoè%2C%20Lomé%20TOGO-00B294?style=flat-square)](https://maps.google.com/?q=Lomé,Togo)
-[![Phone](https://img.shields.io/badge/📞-%2B228%2090--54--21--39-informational?style=flat-square)](tel:+22890542139)
 
 </div>
 
@@ -19,58 +18,15 @@
 
 > **Développeur Full Stack & Mobile** avec **4+ ans d'expérience**, orienté **produit et qualité**.
 
-Je conçois des architectures scalables, des applications iOS/Android robustes et j'intègre des pratiques DevOps modernes (Docker, CI/CD) pour des applications métiers à fort impact. Je suis capable de **piloter un projet de bout en bout** — de la modélisation de la base de données jusqu'au déploiement en production.
+Je conçois des architectures scalables, des applications iOS/Android robustes et j'intègre des pratiques DevOps modernes (Docker, CI/CD) pour des applications métiers à fort impact. Je suis capable de **piloter un projet de bout en bout** - de la modélisation de la base de données jusqu'au déploiement en production.
 
-- 🔭 Actuellement : Lead Développeur Freelance — CMS sur-mesure, SaaS, apps mobiles
-- 🌍 Basé à **Lomé, Togo** — disponible pour missions remote & locales
-- 🧠 Spécialités : **React Native**, **Next.js**, **Supabase**, **Clean Architecture**
+- 🔭 Actuellement : Lead Développeur Freelance - CMS sur-mesure, SaaS, apps mobiles
+- 🌍 Basé à **Lomé, Togo** - disponible pour missions remote & locales
+- 🧠 Spécialités : **React Native**, **Next.js**, **Clean Architecture**
 - ⚡ Fun fact : J'ai déjà livré une app de reconnaissance faciale pour une borne interactive événementielle 📸
 
 ---
 
-## 💼 Expérience Professionnelle
-
-### 🟢 Développeur Full Stack & Mobile — *Freelance*
-`Avril 2025 – Présent`
-
-| Domaine | Réalisations |
-|---|---|
-| 🏗️ **Architecture & Back-end** | Lead Dev sur 3 CMS sur-mesure (Next.js & Supabase) et une plateforme SaaS de networking (**Centrale des Experts**) |
-| 📱 **Mobile (React Native / Expo)** | Conception de **5 apps iOS/Android** : paiements en ligne, abonnements premium, protocoles "Preuve de vie" |
-| 🖥️ **Offline-First Desktop** | App **Pharma Stock** avec synchronisation locale/distante et système de licences |
-
-`Next.js` `React Native` `Node.js` `Supabase` `PostgreSQL`
-
----
-
-### 🔵 Développeur Front-end / Mobile — *DigiAfrika*
-`Juin 2025 – Décembre 2025`
-
-| Domaine | Réalisations |
-|---|---|
-| 🏛️ **Systèmes Gouvernementaux** | Interfaces sécurisées pour le système foncier (**e-SIF**) et fiscal (**SIGFID**) de Djibouti |
-| 🚗 **Application VTC** | Lead Front sur **GoUp** (clone Uber) — géolocalisation temps réel sous React Native |
-
-`React Native` `React`
-
----
-
-### 🟡 Opérations Marchands — *Gozem*
-`2023 – 2024`
-
-- 📊 Suivi technique de l'intégration des marchands sur la plateforme
-- 🐛 Identification, documentation et remontée de bugs en collaboration avec les équipes produit
-- 🔄 Amélioration continue des outils internes et des workflows opérationnels
-
----
-
-### ⚫ Développeur Full Stack — *CEB & CPMB*
-`Décembre 2021 – Février 2023`
-
-- 🛠️ Développement de logiciels internes : gestion des stocks (**CPMB**) et relevé de compteurs (**CEB**)
-- ⏱️ Réduction significative du temps de traitement manuel grâce à l'automatisation
-
----
 
 ## 🛠️ Stack Technique
 
@@ -132,8 +88,8 @@ Je conçois des architectures scalables, des applications iOS/Android robustes e
 
 | Diplôme | Établissement | Période |
 |---|---|---|
-| 📜 Licence Professionnelle — Systèmes & Technologies de l'Information | **ICAGI** — Dakar, Sénégal | Jan 2025 – Oct 2025 |
-| 📜 Licence BAC+3 — Informatique, Réseaux & Télécommunications | **ESGIS** — Lomé, Togo | Déc 2020 – Sep 2023 |
+| 📜 Licence Professionnelle - Systèmes & Technologies de l'Information | **ICAGI** - Dakar, Sénégal | Jan 2025 – Oct 2025 |
+| 📜 Licence BAC+3 - Informatique, Réseaux & Télécommunications | **ESGIS** - Lomé, Togo | Déc 2020 – Sep 2023 |
 
 ---
 
