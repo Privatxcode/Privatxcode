@@ -1,10 +1,14 @@
 <div align="center">
 
+![Profile Views](https://komarev.com/ghpvc/?username=privatxcode&color=blueviolet&style=flat-square&label=Visiteurs+du+profil)
+
+_💡 Ouvert aux opportunités Freelance et missions à distance_
+
 # 👋 Salut, moi c'est **Privat**
 
 ### 🚀 Développeur Full Stack & Mobile | Lead Technique
 
-*Conception d'architectures scalables · Applications Mobile iOS/Android · Intégration DevOps*
+_Conception d'architectures scalables · Applications Mobile iOS/Android · Intégration DevOps_
 
 [![Email](https://img.shields.io/badge/Email-daagboprivat4%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:daagboprivat4@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-mr__privt-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/mr_privt)
@@ -27,18 +31,19 @@ Je conçois des architectures scalables, des applications iOS/Android robustes e
 
 ---
 
-
 ## 🛠️ Stack Technique
 
 <div align="center">
 
 ### Langages
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Frontend & Mobile
+
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -59,6 +64,7 @@ Je conçois des architectures scalables, des applications iOS/Android robustes e
 ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 
 ### UI & Styling
+
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -68,6 +74,7 @@ Je conçois des architectures scalables, des applications iOS/Android robustes e
 ![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radix-ui&logoColor=white)
 
 ### Backend & API
+
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
@@ -79,6 +86,7 @@ Je conçois des architectures scalables, des applications iOS/Android robustes e
 ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white)
 
 ### Base de Données & ORM
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -91,6 +99,7 @@ Je conçois des architectures scalables, des applications iOS/Android robustes e
 ![PocketBase](https://img.shields.io/badge/PocketBase-%23b8dbe4.svg?style=for-the-badge&logo=Pocketbase&logoColor=black)
 
 ### Tests & Qualité
+
 ![Jest](https://img.shields.io/badge/Jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 ![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white)
@@ -100,6 +109,7 @@ Je conçois des architectures scalables, des applications iOS/Android robustes e
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
 
 ### DevOps & Infrastructure
+
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
@@ -111,6 +121,7 @@ Je conçois des architectures scalables, des applications iOS/Android robustes e
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 
 ### Outils & Collaboration
+
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -127,7 +138,6 @@ Je conçois des architectures scalables, des applications iOS/Android robustes e
 
 ---
 
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -138,7 +148,7 @@ Je conçois des architectures scalables, des applications iOS/Android robustes e
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=privatxcode&theme=tokyonight&hide_border=true&layout=compact&langs_count=10)
 
-> 💡 *La plupart de mes projets sont en dépôts privés. Les statistiques publiques ne reflètent donc pas l'ensemble de mon activité.*
+> 💡 _La plupart de mes projets sont en dépôts privés. Les statistiques publiques ne reflètent donc pas l'ensemble de mon activité._
 
 </div>
 
@@ -149,11 +159,5 @@ Je conçois des architectures scalables, des applications iOS/Android robustes e
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=privatxcode&color=blueviolet&style=flat-square&label=Visiteurs+du+profil)
-
-*💡 Ouvert aux opportunités Freelance et missions à distance*
 
 </div>
