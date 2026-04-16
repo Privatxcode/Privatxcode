@@ -4,6 +4,8 @@
 
 _💡 Ouvert aux opportunités Freelance et missions à distance_
 
+> 💡 _La majorité des projets sont en dépôts privés. Les statistiques publiques ne reflètent donc pas l'ensemble de mon activité._
+
 # 👋 Salut, moi c'est **Privat**
 
 ### 🚀 Développeur Full Stack & Mobile | Lead Technique
@@ -147,8 +149,6 @@ Je conçois des architectures scalables, des applications iOS/Android robustes e
 ![GitHub Streak](https://streak-stats.demolab.com/?user=privatxcode&theme=tokyonight&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=privatxcode&theme=tokyonight&hide_border=true&layout=compact&langs_count=10)
-
-> 💡 _La plupart de mes projets sont en dépôts privés. Les statistiques publiques ne reflètent donc pas l'ensemble de mon activité._
 
 </div>
 
