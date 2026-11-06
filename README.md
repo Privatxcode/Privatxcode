@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Privat Daagbo, Tech Lead Full Stack and Mobile, Lomé, Togo. Open to freelance and remote work." />
+<img src="assets/banner.svg" width="100%" alt="Privat DAAGBO, Tech Lead Full Stack and Mobile, Lomé, Togo. Open to freelance and remote work." />
 
 <br />
 
