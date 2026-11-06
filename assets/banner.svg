@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="290" viewBox="0 0 900 290" role="img" aria-label="Privat Daagbo, Tech Lead Full Stack and Mobile, Lomé, Togo. Open to freelance and remote work.">
+<title>Privat Daagbo, Tech Lead Full Stack and Mobile, Lomé, Togo. Open to freelance and remote work.</title>
+<style>
+  .sans{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif}
+  .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
+  .in{opacity:0;animation:in .7s cubic-bezier(.2,.7,.2,1) forwards}
+  @keyframes in{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+  @media (prefers-reduced-motion:reduce){
+    *{animation:none!important}
+    .in{opacity:1}
+  }
+  .flow{stroke-dasharray:3 13;animation:flow 1.4s linear infinite}
+  @keyframes flow{to{stroke-dashoffset:-16}}
+  .dot{animation:pulse 2.4s ease-in-out infinite}
+  @keyframes pulse{50%{opacity:.35}}
+  .rule{transform-origin:48px 0;animation:rule 1s cubic-bezier(.2,.7,.2,1) .35s both}
+  @keyframes rule{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+  .rot{opacity:0;animation:rot 12s linear infinite}
+  @keyframes rot{0%{opacity:0}2%,23%{opacity:1}25%,100%{opacity:0}}
+  @media (prefers-reduced-motion:reduce){
+    .rot-first{opacity:1}
+  }</style>
+<rect x=".5" y=".5" width="899" height="289" rx="14" fill="#0d1117" stroke="#30363d"/>
+<g class="in" style="animation-delay:0s"><circle class="dot" cx="53" cy="62" r="4.5" fill="#2dd4a7"/><text class="mono" x="68" y="67" font-size="13" fill="#9da7b3">Lomé, Togo · Open to freelance &amp; remote</text></g>
+<text class="in" style="animation-delay:0.1s" x="48" y="132"><tspan class="sans" font-size="58" font-weight="700" fill="#f0f6fc" letter-spacing="-1">Privat Daagbo</tspan></text>
+<rect class="rule" x="48" y="150" width="64" height="3" rx="1.5" fill="#2dd4a7"/>
+<text class="in" style="animation-delay:0.25s" x="48" y="184"><tspan class="sans" font-size="23" fill="#f0f6fc">Tech Lead · Full Stack &amp; Mobile</tspan></text>
+<text class="mono rot rot-first" style="animation-delay:1s" x="48" y="212" font-size="15" fill="#2dd4a7">Multi-tenant architectures</text>
+<text class="mono rot" style="animation-delay:4s" x="48" y="212" font-size="15" fill="#2dd4a7">Mobile money and card payments</text>
+<text class="mono rot" style="animation-delay:7s" x="48" y="212" font-size="15" fill="#2dd4a7">React Native apps for iOS and Android</text>
+<text class="mono rot" style="animation-delay:10s" x="48" y="212" font-size="15" fill="#2dd4a7">Redis caching and idempotence</text>
+<g class="in" style="animation-delay:0.9s"><path d="M642 90C657.5 90 657.5 150 673 150" fill="none" stroke="#30363d" stroke-width="1.5"/><path class="flow" d="M642 90C657.5 90 657.5 150 673 150" fill="none" stroke="#2dd4a7" stroke-width="1.5" stroke-linecap="round"/></g>
+<g class="in" style="animation-delay:0.98s"><path d="M642 210C657.5 210 657.5 150 673 150" fill="none" stroke="#30363d" stroke-width="1.5"/><path class="flow" d="M642 210C657.5 210 657.5 150 673 150" fill="none" stroke="#2dd4a7" stroke-width="1.5" stroke-linecap="round"/></g>
+<g class="in" style="animation-delay:1.06s"><path d="M757 150C770 150 770 80 783 80" fill="none" stroke="#30363d" stroke-width="1.5"/><path class="flow" d="M757 150C770 150 770 80 783 80" fill="none" stroke="#2dd4a7" stroke-width="1.5" stroke-linecap="round"/></g>
+<g class="in" style="animation-delay:1.1400000000000001s"><path d="M757 150C770 150 770 150 783 150" fill="none" stroke="#30363d" stroke-width="1.5"/><path class="flow" d="M757 150C770 150 770 150 783 150" fill="none" stroke="#2dd4a7" stroke-width="1.5" stroke-linecap="round"/></g>
+<g class="in" style="animation-delay:1.22s"><path d="M757 150C770 150 770 220 783 220" fill="none" stroke="#30363d" stroke-width="1.5"/><path class="flow" d="M757 150C770 150 770 220 783 220" fill="none" stroke="#2dd4a7" stroke-width="1.5" stroke-linecap="round"/></g>
+<g class="in" style="animation-delay:0.5s"><rect x="558" y="73" width="84" height="34" rx="8" fill="#161b22" stroke="#30363d"/><text class="mono" x="600" y="94.5" text-anchor="middle" font-size="13" fill="#f0f6fc">web</text></g>
+<g class="in" style="animation-delay:0.58s"><rect x="558" y="193" width="84" height="34" rx="8" fill="#161b22" stroke="#30363d"/><text class="mono" x="600" y="214.5" text-anchor="middle" font-size="13" fill="#f0f6fc">mobile</text></g>
+<g class="in" style="animation-delay:0.66s"><rect x="673" y="133" width="84" height="34" rx="8" fill="#161b22" stroke="#2dd4a7"/><text class="mono" x="715" y="154.5" text-anchor="middle" font-size="13" fill="#2dd4a7">api</text></g>
+<g class="in" style="animation-delay:0.74s"><rect x="783" y="63" width="84" height="34" rx="8" fill="#161b22" stroke="#30363d"/><text class="mono" x="825" y="84.5" text-anchor="middle" font-size="13" fill="#f0f6fc">postgres</text></g>
+<g class="in" style="animation-delay:0.8200000000000001s"><rect x="783" y="133" width="84" height="34" rx="8" fill="#161b22" stroke="#30363d"/><text class="mono" x="825" y="154.5" text-anchor="middle" font-size="13" fill="#f0f6fc">redis</text></g>
+<g class="in" style="animation-delay:0.9s"><rect x="783" y="203" width="84" height="34" rx="8" fill="#161b22" stroke="#30363d"/><text class="mono" x="825" y="224.5" text-anchor="middle" font-size="13" fill="#f0f6fc">payments</text></g>
+</svg>

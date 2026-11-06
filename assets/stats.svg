@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="222" viewBox="0 0 900 222" role="img" aria-label="GitHub activity: 1924 contributions over 12 months, 105 repositories, 1 day current streak, 32 day longest streak. Primary language per repository: TypeScript 77.0%, JavaScript 12.0%, HTML 5.0%, Python 3.0%, PHP 1.0%.">
+<title>GitHub activity: 1924 contributions over 12 months, 105 repositories, 1 day current streak, 32 day longest streak. Primary language per repository: TypeScript 77.0%, JavaScript 12.0%, HTML 5.0%, Python 3.0%, PHP 1.0%.</title>
+<style>
+  .sans{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif}
+  .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
+  .in{opacity:0;animation:in .7s cubic-bezier(.2,.7,.2,1) forwards}
+  @keyframes in{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+  @media (prefers-reduced-motion:reduce){
+    *{animation:none!important}
+    .in{opacity:1}
+  }
+  .bar{transform-box:fill-box;transform-origin:left;animation:bar 1s cubic-bezier(.2,.7,.2,1) both}
+  @keyframes bar{from{transform:scaleX(0)}to{transform:scaleX(1)}}</style>
+<rect x=".5" y=".5" width="899" height="221" rx="14" fill="#0d1117" stroke="#30363d"/>
+<g class="in" style="animation-delay:0.1s"><text class="sans" x="32" y="62" font-size="30" font-weight="700" fill="#f0f6fc">1,924</text><text class="sans" x="32" y="86" font-size="13" fill="#9da7b3">contributions, 12 months</text></g>
+<g class="in" style="animation-delay:0.22s"><text class="sans" x="222" y="62" font-size="30" font-weight="700" fill="#f0f6fc">105</text><text class="sans" x="222" y="86" font-size="13" fill="#9da7b3">repositories</text></g>
+<g class="in" style="animation-delay:0.33999999999999997s"><text class="sans" x="32" y="146" font-size="30" font-weight="700" fill="#f0f6fc">1d</text><text class="sans" x="32" y="170" font-size="13" fill="#9da7b3">current streak</text></g>
+<g class="in" style="animation-delay:0.45999999999999996s"><text class="sans" x="222" y="146" font-size="30" font-weight="700" fill="#f0f6fc">32d</text><text class="sans" x="222" y="170" font-size="13" fill="#9da7b3">longest streak</text></g>
+<line x1="430" y1="28" x2="430" y2="192" stroke="#30363d"/>
+<g class="in" style="animation-delay:0.2s"><text class="mono" x="462" y="53" font-size="13" fill="#f0f6fc">TypeScript</text><rect x="610" y="44" width="220" height="8" rx="4" fill="#161b22"/><rect class="bar" style="animation-delay:0.4s" x="610" y="44" width="169.4" height="8" rx="4" fill="#2dd4a7"/><text class="mono" x="876" y="53" text-anchor="end" font-size="12" fill="#9da7b3">77.0%</text></g>
+<g class="in" style="animation-delay:0.30000000000000004s"><text class="mono" x="462" y="83" font-size="13" fill="#f0f6fc">JavaScript</text><rect x="610" y="74" width="220" height="8" rx="4" fill="#161b22"/><rect class="bar" style="animation-delay:0.5s" x="610" y="74" width="26.4" height="8" rx="4" fill="#2dd4a7"/><text class="mono" x="876" y="83" text-anchor="end" font-size="12" fill="#9da7b3">12.0%</text></g>
+<g class="in" style="animation-delay:0.4s"><text class="mono" x="462" y="113" font-size="13" fill="#f0f6fc">HTML</text><rect x="610" y="104" width="220" height="8" rx="4" fill="#161b22"/><rect class="bar" style="animation-delay:0.6000000000000001s" x="610" y="104" width="11.0" height="8" rx="4" fill="#2dd4a7"/><text class="mono" x="876" y="113" text-anchor="end" font-size="12" fill="#9da7b3">5.0%</text></g>
+<g class="in" style="animation-delay:0.5s"><text class="mono" x="462" y="143" font-size="13" fill="#f0f6fc">Python</text><rect x="610" y="134" width="220" height="8" rx="4" fill="#161b22"/><rect class="bar" style="animation-delay:0.7000000000000001s" x="610" y="134" width="8.0" height="8" rx="4" fill="#2dd4a7"/><text class="mono" x="876" y="143" text-anchor="end" font-size="12" fill="#9da7b3">3.0%</text></g>
+<g class="in" style="animation-delay:0.6000000000000001s"><text class="mono" x="462" y="173" font-size="13" fill="#f0f6fc">PHP</text><rect x="610" y="164" width="220" height="8" rx="4" fill="#161b22"/><rect class="bar" style="animation-delay:0.8s" x="610" y="164" width="8.0" height="8" rx="4" fill="#2dd4a7"/><text class="mono" x="876" y="173" text-anchor="end" font-size="12" fill="#9da7b3">1.0%</text></g>
+<text class="mono" x="462" y="204" font-size="11" fill="#9da7b3">Primary language per repo · Private repos included · 2026-11-06</text>
+</svg>

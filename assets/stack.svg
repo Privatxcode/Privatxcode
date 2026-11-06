@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="350" viewBox="0 0 900 350" role="img" aria-label="Tech stack. Languages: TypeScript, JavaScript, SQL. Front &amp; mobile: React, Next.js, React Native, Expo, Tailwind CSS, TanStack Query. Backend: Node.js, NestJS, Express, REST, WebSockets. Data: PostgreSQL, Redis, Prisma, Supabase. Payments: Paygate, Semoa, CinetPay, Stripe, Webhooks. Architecture: Multi-tenant, RLS/RBAC, Idempotence, Caching, Design system. DevOps &amp; QA: Docker, GitHub Actions, Sentry, Jest.">
+<title>Tech stack. Languages: TypeScript, JavaScript, SQL. Front &amp; mobile: React, Next.js, React Native, Expo, Tailwind CSS, TanStack Query. Backend: Node.js, NestJS, Express, REST, WebSockets. Data: PostgreSQL, Redis, Prisma, Supabase. Payments: Paygate, Semoa, CinetPay, Stripe, Webhooks. Architecture: Multi-tenant, RLS/RBAC, Idempotence, Caching, Design system. DevOps &amp; QA: Docker, GitHub Actions, Sentry, Jest.</title>
+<style>
+  .sans{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif}
+  .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
+  .in{opacity:0;animation:in .7s cubic-bezier(.2,.7,.2,1) forwards}
+  @keyframes in{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+  @media (prefers-reduced-motion:reduce){
+    *{animation:none!important}
+    .in{opacity:1}
+  }</style>
+<rect x=".5" y=".5" width="899" height="349" rx="14" fill="#0d1117" stroke="#30363d"/>
+<text class="sans" x="32" y="48" font-size="14" font-weight="600" fill="#9da7b3">Languages</text>
+<g class="in" style="animation-delay:0.1s"><rect x="176" y="28" width="102" height="30" rx="7" fill="#161b22" stroke="#30363d"/><text class="mono" x="227" y="47.5" text-anchor="middle" font-size="13" fill="#f0f6fc">TypeScript</text></g>
+<g class="in" style="animation-delay:0.135s"><rect x="286" y="28" width="102" height="30" rx="7" fill="#161b22" stroke="#30363d"/><text class="mono" x="337" y="47.5" text-anchor="middle" font-size="13" fill="#f0f6fc">JavaScript</text></g>
+<g class="in" style="animation-delay:0.17s"><rect x="396" y="28" width="48" height="30" rx="7" fill="#161b22" stroke="#30363d"/><text class="mono" x="420" y="47.5" text-anchor="middle" font-size="13" fill="#f0f6fc">SQL</text></g>
+<text class="sans" x="32" y="92" font-size="14" font-weight="600" fill="#9da7b3">Front &amp; mobile</text>
+<g class="in" style="animation-delay:0.20500000000000002s"><rect x="176" y="72" width="63" height="30" rx="7" fill="#161b22" stroke="#30363d"/><text class="mono" x="207.5" y="91.5" text-anchor="middle" font-size="13" fill="#f0f6fc">React</text></g>
+<g class="in" style="animation-delay:0.24000000000000002s"><rect x="247" y="72" width="79" height="30" rx="7" fill="#161b22" stroke="#30363d"/><text class="mono" x="286.5" y="91.5" text-anchor="middle" font-size="13" fill="#f0f6fc">Next.js</text></g>
+<g class="in" style="animation-delay:0.275s"><rect x="334" y="72" width="118" height="30" rx="7" fill="#161b22" stroke="#30363d"/><text class="mono" x="393" y="91.5" text-anchor="middle" font-size="13" fill="#f0f6fc">React Native</text></g>
+<g class="in" style="animation-delay:0.31000000000000005s"><rect x="460" y="72" width="56" height="30" rx="7" fill="#161b22" stroke="#30363d"/><text class="mono" x="488" y="91.5" text-anchor="middle" font-size="13" fill="#f0f6fc">Expo</text></g>
+<g class="in" style="animation-delay:0.34500000000000003s"><rect x="524" y="72" width="118" height="30" rx="7" fill="#161b22" stroke="#30363d"/><text class="mono" x="583" y="91.5" text-anchor="middle" font-size="13" fill="#f0f6fc">Tailwind CSS</text></g>
+<g class="in" style="animation-delay:0.38s"><rect x="650" y="72" width="134" height="30" rx="7" fill="#161b22" stroke="#30363d"/><text class="mono" x="717" y="91.5" text-anchor="middle" font-size="13" fill="#f0f6fc">TanStack Query</text></g>
+<text class="sans" x="32" y="136" font-size="14" font-weight="600" fill="#9da7b3">Backend</text>
+<g class="in" style="animation-delay:0.41500000000000004s"><rect x="176" y="116" width="79" height="30" rx="7" fill="#161b22" stroke="#30363d"/><text class="mono" x="215.5" y="135.5" text-anchor="middle" font-size="13" fill="#f0f6fc">Node.js</text></g>
+<g class="in" style="animation-delay:0.45000000000000007s"><rect x="263" y="116" width="71" height="30" rx="7" fill="#161b22" stroke="#30363d"/><text class="mono" x="298.5" y="135.5" text-anchor="middle" font-size="13" fill="#f0f6fc">NestJS</text></g>
+<g class="in" style="animation-delay:0.485s"><rect x="342" y="116" width="79" height="30" rx="7" fill="#161b22" stroke="#30363d"/><text class="mono" x="381.5" y="135.5" text-anchor="middle" font-size="13" fill="#f0f6fc">Express</text></g>
+<g class="in" style="animation-delay:0.52s"><rect x="429" y="116" width="56" height="30" rx="7" fill="#161b22" stroke="#30363d"/><text class="mono" x="457" y="135.5" text-anchor="middle" font-size="13" fill="#f0f6fc">REST</text></g>
+<g class="in" style="animation-delay:0.555s"><rect x="493" y="116" width="102" height="30" rx="7" fill="#161b22" stroke="#30363d"/><text class="mono" x="544" y="135.5" text-anchor="middle" font-size="13" fill="#f0f6fc">WebSockets</text></g>
+<text class="sans" x="32" y="180" font-size="14" font-weight="600" fill="#9da7b3">Data</text>
+<g class="in" style="animation-delay:0.5900000000000001s"><rect x="176" y="160" width="102" height="30" rx="7" fill="#161b22" stroke="#30363d"/><text class="mono" x="227" y="179.5" text-anchor="middle" font-size="13" fill="#f0f6fc">PostgreSQL</text></g>
+<g class="in" style="animation-delay:0.625s"><rect x="286" y="160" width="63" height="30" rx="7" fill="#161b22" stroke="#30363d"/><text class="mono" x="317.5" y="179.5" text-anchor="middle" font-size="13" fill="#f0f6fc">Redis</text></g>
+<g class="in" style="animation-delay:0.66s"><rect x="357" y="160" width="71" height="30" rx="7" fill="#161b22" stroke="#30363d"/><text class="mono" x="392.5" y="179.5" text-anchor="middle" font-size="13" fill="#f0f6fc">Prisma</text></g>
+<g class="in" style="animation-delay:0.6950000000000001s"><rect x="436" y="160" width="87" height="30" rx="7" fill="#161b22" stroke="#30363d"/><text class="mono" x="479.5" y="179.5" text-anchor="middle" font-size="13" fill="#f0f6fc">Supabase</text></g>
+<text class="sans" x="32" y="224" font-size="14" font-weight="600" fill="#9da7b3">Payments</text>
+<g class="in" style="animation-delay:0.7300000000000001s"><rect x="176" y="204" width="79" height="30" rx="7" fill="#161b22" stroke="#30363d"/><text class="mono" x="215.5" y="223.5" text-anchor="middle" font-size="13" fill="#f0f6fc">Paygate</text></g>
+<g class="in" style="animation-delay:0.765s"><rect x="263" y="204" width="63" height="30" rx="7" fill="#161b22" stroke="#30363d"/><text class="mono" x="294.5" y="223.5" text-anchor="middle" font-size="13" fill="#f0f6fc">Semoa</text></g>
+<g class="in" style="animation-delay:0.8s"><rect x="334" y="204" width="87" height="30" rx="7" fill="#161b22" stroke="#30363d"/><text class="mono" x="377.5" y="223.5" text-anchor="middle" font-size="13" fill="#f0f6fc">CinetPay</text></g>
+<g class="in" style="animation-delay:0.8350000000000001s"><rect x="429" y="204" width="71" height="30" rx="7" fill="#161b22" stroke="#30363d"/><text class="mono" x="464.5" y="223.5" text-anchor="middle" font-size="13" fill="#f0f6fc">Stripe</text></g>
+<g class="in" style="animation-delay:0.87s"><rect x="508" y="204" width="87" height="30" rx="7" fill="#161b22" stroke="#30363d"/><text class="mono" x="551.5" y="223.5" text-anchor="middle" font-size="13" fill="#f0f6fc">Webhooks</text></g>
+<text class="sans" x="32" y="268" font-size="14" font-weight="600" fill="#9da7b3">Architecture</text>
+<g class="in" style="animation-delay:0.905s"><rect x="176" y="248" width="118" height="30" rx="7" fill="#161b22" stroke="#30363d"/><text class="mono" x="235" y="267.5" text-anchor="middle" font-size="13" fill="#f0f6fc">Multi-tenant</text></g>
+<g class="in" style="animation-delay:0.9400000000000001s"><rect x="302" y="248" width="87" height="30" rx="7" fill="#161b22" stroke="#30363d"/><text class="mono" x="345.5" y="267.5" text-anchor="middle" font-size="13" fill="#f0f6fc">RLS/RBAC</text></g>
+<g class="in" style="animation-delay:0.9750000000000001s"><rect x="397" y="248" width="110" height="30" rx="7" fill="#161b22" stroke="#30363d"/><text class="mono" x="452" y="267.5" text-anchor="middle" font-size="13" fill="#f0f6fc">Idempotence</text></g>
+<g class="in" style="animation-delay:1.0100000000000002s"><rect x="515" y="248" width="79" height="30" rx="7" fill="#161b22" stroke="#30363d"/><text class="mono" x="554.5" y="267.5" text-anchor="middle" font-size="13" fill="#f0f6fc">Caching</text></g>
+<g class="in" style="animation-delay:1.0450000000000002s"><rect x="602" y="248" width="126" height="30" rx="7" fill="#161b22" stroke="#30363d"/><text class="mono" x="665" y="267.5" text-anchor="middle" font-size="13" fill="#f0f6fc">Design system</text></g>
+<text class="sans" x="32" y="312" font-size="14" font-weight="600" fill="#9da7b3">DevOps &amp; QA</text>
+<g class="in" style="animation-delay:1.08s"><rect x="176" y="292" width="71" height="30" rx="7" fill="#161b22" stroke="#30363d"/><text class="mono" x="211.5" y="311.5" text-anchor="middle" font-size="13" fill="#f0f6fc">Docker</text></g>
+<g class="in" style="animation-delay:1.1150000000000002s"><rect x="255" y="292" width="134" height="30" rx="7" fill="#161b22" stroke="#30363d"/><text class="mono" x="322" y="311.5" text-anchor="middle" font-size="13" fill="#f0f6fc">GitHub Actions</text></g>
+<g class="in" style="animation-delay:1.1500000000000001s"><rect x="397" y="292" width="71" height="30" rx="7" fill="#161b22" stroke="#30363d"/><text class="mono" x="432.5" y="311.5" text-anchor="middle" font-size="13" fill="#f0f6fc">Sentry</text></g>
+<g class="in" style="animation-delay:1.1850000000000003s"><rect x="476" y="292" width="56" height="30" rx="7" fill="#161b22" stroke="#30363d"/><text class="mono" x="504" y="311.5" text-anchor="middle" font-size="13" fill="#f0f6fc">Jest</text></g>
+</svg>
