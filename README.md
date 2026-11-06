@@ -16,6 +16,8 @@ Tech Lead with 4 years of TypeScript experience, building business software that
 
 **Focus:** multi-tenant architectures, payments, and Redis.
 
+**Languages:** French (native), English (fluent)
+
 - **Now:** Tech Lead and Digitalization Project Manager, plus freelance lead developer
 - **Founder and CTO:** [PermisGo](https://www.permisgo.tg/), a B2B2C SaaS that digitalizes driving schools, with mobile money and card payments
 - **How I lead:** code reviews, mentoring, technical specs, and ADRs
@@ -53,14 +55,6 @@ Most of my work lives in private repositories.
   <source media="(prefers-color-scheme: light)" srcset="assets/snake.svg" />
   <img src="assets/snake.svg" width="100%" alt="Animated snake eating the GitHub contribution graph." />
 </picture>
-
-## Education and certification
-
-- **Professional Bachelor's in Information Systems and Technologies**, ICAGI, Dakar, 2025
-- **Bachelor's in Computer Science, Networks and Telecommunications**, ESGIS, Lomé, 2023
-- **[Google Analytics Certification](https://skillshop.credential.net/bbdf245b-38de-4581-911d-9bdc65d43769)**, 2026
-
-**Languages:** French (native), English (fluent)
 
 <details>
 <summary><strong>Version française</strong></summary>
